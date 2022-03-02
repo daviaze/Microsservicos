@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Microservicos\Modelo.Infra.Data\bin\Debug\net5.0\Modelo.Infra.Data.deps.json
+C:\Users\user\source\repos\Microservicos\Modelo.Infra.Data\bin\Debug\net5.0\Modelo.Infra.Data.dll
+C:\Users\user\source\repos\Microservicos\Modelo.Infra.Data\bin\Debug\net5.0\ref\Modelo.Infra.Data.dll
+C:\Users\user\source\repos\Microservicos\Modelo.Infra.Data\bin\Debug\net5.0\Modelo.Infra.Data.pdb
+C:\Users\user\source\repos\Microservicos\Modelo.Infra.Data\obj\Debug\net5.0\Modelo.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Microservicos\Modelo.Infra.Data\obj\Debug\net5.0\Modelo.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Microservicos\Modelo.Infra.Data\obj\Debug\net5.0\Modelo.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Microservicos\Modelo.Infra.Data\obj\Debug\net5.0\Modelo.Infra.Data.AssemblyInfo.cs
+C:\Users\user\source\repos\Microservicos\Modelo.Infra.Data\obj\Debug\net5.0\Modelo.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Microservicos\Modelo.Infra.Data\obj\Debug\net5.0\Modelo.Infra.Data.dll
+C:\Users\user\source\repos\Microservicos\Modelo.Infra.Data\obj\Debug\net5.0\ref\Modelo.Infra.Data.dll
+C:\Users\user\source\repos\Microservicos\Modelo.Infra.Data\obj\Debug\net5.0\Modelo.Infra.Data.pdb
+C:\Users\user\source\repos\Microservicos\Modelo.Infra.Data\bin\Debug\net5.0\Modelo.Domain.dll
+C:\Users\user\source\repos\Microservicos\Modelo.Infra.Data\bin\Debug\net5.0\Modelo.Domain.pdb
